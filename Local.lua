@@ -1,4 +1,4 @@
-local NEW_JUMP_POWER = 100 -- Стандартное значение обычно около 50
+local NEW_JUMP_POWER = 100 
 
 local player = game.Players.LocalPlayer
 local character = player.Character or player.CharacterAdded:Wait()
